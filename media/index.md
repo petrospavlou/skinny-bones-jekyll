@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
-date: 2014-05-30T11:40:45-04:00
+title: "Photo Gallery"
+date: 2015-08-30T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "A collection of photo albums"
 tags: []
 image:
   feature:

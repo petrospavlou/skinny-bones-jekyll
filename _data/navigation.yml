@@ -1,21 +1,26 @@
 # Site navigation links
 
+- title: Home
+  url: /
+  excerpt: "Home page of Petros Pavlou website."
+  image: 400x250.gif
+
 - title: Getting Started
   url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  excerpt: "Everything you need to know about Petros Pavlou."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Creations
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "A Collection of creations."
   image: 400x250.gif
 
-- title: Media
+- title: Photo Albums
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Examples of media posts."
   image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "All about Petros Pavlou."
   image: 400x250.gif
